@@ -1,0 +1,5 @@
+Limitation of the project is as below:
+
+1. If not input for generating the number, it would take 15 as default.
+2. Do not input more than 15 for generating the series.
+3. 
